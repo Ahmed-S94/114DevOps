@@ -20,3 +20,5 @@ Python
     * Lists -> Like an Array in JS
     * Tuple -> Similar to lists but immutable
     * Sets -> Is unordered, unchangeable and unindexed. Duplicates not allowed
+    * Method -> are associated with the objects of the class they belong to
+    * Functions are not associated with any object.
